@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skylaza
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning on making games in unity
-- 💞️ I’m looking to collaborate on no one...
+- 🌱 I’m currently learning on
+- 💞️ I’m looking to collaborate on no one right now...
 - 📫 How to reach me idk
 
 <!---
